@@ -1,0 +1,510 @@
+{"products" : [
+    {"id": "GEGEA",
+    "category": "froid",
+    "productName": "Groupe eau glacée",
+    "productNameDetails": "groupe eau/air",
+    "aim":[
+        "Réseaux urbains", 
+         "Évènementiel",
+         "Industrie",
+         "Tertiaire "
+    ], 
+    "details":[
+        "Installation Rapide", 
+        "Débit d'air important",
+        "Variateur de débit d'air (évènements/industriels,...)"
+    ], 
+    "description" :  "Pour l'eau glacée, chaque unité terminal apporte une solution adéquate afin de climatiser son environnement le plus efficacement possible. Leurs designs sont multiples et s'adaptent à toutes instances.",
+    "underCatDesc":"Installation rapide et efficace système de régulation ultra performante et linéaire (confort inégalable)",
+    "productPic": "/GF-AirEau.png",
+    "tablePic": "/GEGEA-t.png",
+    "tablePic2": null,
+    "schemaPic": "/schemadexplication.png"
+
+},
+    {"id": "GEGEE",
+    "category": "froid",
+    "productName": "Groupe eau glacée",
+    "productNameDetails": "groupe eau/eau",
+    "aim":[
+        "Réseaux urbains", 
+         "Évènementiel",
+         "Industrie",
+         "Tertiaire "
+    ], 
+    "details":[
+        "Installation Rapide", 
+        "Débit d'air important",
+        "Variateur de débit d'air (évènements/industriels,...)"
+    ], 
+    "description" :  "Pour l'eau glacée, chaque unité terminal apporte une solution adéquate afin de climatiser son environnement le plus efficacement possible. Leurs designs sont multiples et s'adaptent à toutes instances.",
+    "underCatDesc":"Lorsque l’environnement est inapproprié pour loger un condenseur à air, le groupe eau/eau reste l’unique solution.Il est très compact et performant et dispose d'un coefficient d’efficacité énergétique important",
+    "productPic": "/GF-EauEau.png",
+    "tablePic": "/letableaudinfo.png",
+    "tablePic2": null,
+    "schemaPic": "/schemadexplication.png",
+    "similarProducts":[
+        "id_product1",
+        "id_product2",
+        "id_product3"
+    ]
+},
+    {"id": "GEGPAC",
+    "category": "froid",
+    "productName": "Groupe eau glacée",
+    "productNameDetails": "groupe eau/eau",
+    "aim":[
+        "Réseaux urbains", 
+         "Évènementiel",
+         "Industrie",
+         "Tertiaire "
+    ], 
+    "details":[
+        "Installation Rapide", 
+        "Débit d'air important",
+        "Variateur de débit d'air (évènements/industriels,...)"
+    ], 
+    "description" :  "Pour l'eau glacée, chaque unité terminal apporte une solution adéquate afin de climatiser son environnement le plus efficacement possible. Leurs designs sont multiples et s'adaptent à toutes instances.",
+    "underCatDesc":"Groupe à eau réversible pouvant produire autant de l’eau glacée que de l’eau chaude. Froid la nuit, chaud la journée il répond aux besoins à l’instant présent (soit manuellement ou automatiquement via une sonde de régulation).",
+    "productPic": "/GF-dry.png",
+    "tablePic": "/letableaudinfo.png",
+    "tablePic2": null,
+    "schemaPic": "/schemadexplication.png",
+    "similarProducts":[
+        "id_product1",
+        "id_product2",
+        "id_product3"
+    ]
+},
+    {"id": "ROOFTOP",
+    "category": "froid",
+    "productName": "Rooftop",
+    "productNameDetails": null,
+    "aim":[
+        "Data Center", 
+         "Évènementiel",
+         "Industrie",
+         "Tertiaire "
+    ], 
+    "details":[
+        "Installation Rapide", 
+        "Débit d'air important",
+        "Variateur de débit d'air (évènements/industriels,...)",
+        "Option free cooling très avantageux pour les consommations d’énergie",
+        "Option réversible",
+        "Option résistance électrique"
+    ], 
+    "description" :  "Système de climatisation monobloc, très compact. Il sera parfait pour traiter les gros volumes et dispose d'options aux multiples intérêts.",
+    "underCatDesc":null,
+    "productPic": "/Rooftop.png",
+    "tablePic": "/letableaudinfo.png",
+    "tablePic2": "/letableaudinfo.png",
+    "schemaPic": "/schemadexplication.png",
+    "similarProducts":[
+        "id_product1",
+        "id_product2",
+        "id_product3"
+    ]
+},
+    {"id": "CTA",
+    "category": "froid",
+    "productName": "Centrale de traitement d'air",
+    "productNameDetails": null,
+    "aim":[
+        "Bâtiments", 
+         "Évènementiel",
+         "Industrie",
+         "Résidentiel"
+    ], 
+    "details":[
+        "Installation Rapide", 
+        "Débit d'air important",
+        "Variateur de débit d'air (évènements/industriels,...)"
+    ], 
+    "description" :  "Centrale de traitement d’air fonctionnel en mode chaud/froid. Pression statique disponible importante, adéquat pour des réseaux aérauliques à forte résistance. Parfait pour traiter des gros volumes.",
+    "underCatDesc":null,
+    "productPic": "/CTA.png",
+    "tablePic": "/letableaudinfo.png",
+    "tablePic2": "/letableaudinfo.png",
+    "schemaPic": "/schemadexplication.png",
+    "similarProducts":[
+        "id_product1",
+        "id_product2",
+        "id_product3"
+    ]
+},
+    {"id": "VTC",
+    "category": "froid",
+    "productName": "Ventilo-Convecteur",
+    "productNameDetails": null,
+    "aim":[
+        "Bâtiments", 
+         "Évènementiel",
+         "Industrie",
+         "Résidentiel"
+    ], 
+    "details":[
+        "Installation Rapide", 
+        "Débit d'air important",
+        "Variateur de débit d'air (évènements/industriels,...)"
+    ], 
+    "description" :  "Parfait pour traiter les petits et moyens espaces, grâce à son ventilateur tangentiel qui le rend extrêmement silencieux, il est souvent la solution, pour climatiser des environnements calmes et sereins.",
+    "underCatDesc":null,
+    "productPic": "/Ventiloconvecteur.png",
+    "tablePic": "/letableaudinfo.png",
+    "tablePic2": "/letableaudinfo.png",
+    "schemaPic": "/schemadexplication.png",
+    "similarProducts":[
+        "id_product1",
+        "id_product2",
+        "id_product3"
+    ]
+},
+    {"id": "CHFOD",
+    "category": "chaud",
+    "productName": "Chaufferie FOD",
+    "productNameDetails": null,
+    "aim":[
+        "Réseaux Urbain", 
+        "Industrie",
+        "Tertiaire",
+        "Résidentiel"
+    ], 
+    "details":[
+        "CF2H sur consultation", 
+        "Départs régulés",
+        "Vase d’expansion",
+        "Pompe de circulation Primaire",
+        "Reports d’informations",
+        "Gestion du FOD à distance",
+        "Nombreuses options sur consultations..."
+    ], 
+    "description" :  "Ce type de chaufferie permet de fournir un primaire régulé et constant en un laps de temps très court. Son fonctionnement au FOD ou BIO fioul permet de créer une installation autonome et peu énergivore en électricité. Les domaines d’intervention sont variés : de la petite copropriété jusqu’au réseau urbain.",
+    "underCatDesc":null,
+    "productPic": "/chaufferiefod.png",
+    "tablePic": "/letableaudinfo.png",
+    "tablePic2": "/letableaudinfo.png",
+    "schemaPic": "/schemadexplication.png",
+    "similarProducts":[
+        "id_product1",
+        "id_product2",
+        "id_product3"
+    ]
+},
+    {"id": "CHGAZ",
+    "category": "chaud",
+    "productName": "Chaufferie GAZ",
+    "productNameDetails": null,
+    "aim":[
+        "Installateurs", 
+         "Exploitants",
+         "Réseaux",
+         "Industriels",
+         "Ephad"
+    ], 
+    "details":[
+        "CF2H sur consultation", 
+        "Départs régulés",
+        "Vase d’expansion",
+        "Pompe de circulation Primaire",
+        "Reports d’informations",
+        "Gestion du FOD à distance",
+        "Nombreuses options sur consultations..."
+    ], 
+    "description" :  "Ce type de chaufferie permet de fournir un primaire régulé et constant en un laps de temps très court. Son fonctionnement au gaz permet de créer une installation autonome et peu énergivore en électricité. Les domaines d’intervention sont variés : de la petite copropriété jusqu’au réseau urbain.",
+    "underCatDesc":null,
+    "productPic": "/chaufgaznat.png",
+    "tablePic": "/letableaudinfo.png",
+    "tablePic2": "/letableaudinfo.png",
+    "schemaPic": "/schemadexplication.png",
+    "similarProducts":[
+        "id_product1",
+        "id_product2",
+        "id_product3"
+    ]
+},
+{"id": "GACFOD",
+    "category": "chaud",
+    "productName": "Générateur d'air chaud FOD",
+    "productNameDetails": null,
+    "aim":[
+        "Évènementiel", 
+         "Industrie",
+         "Tertiaire"
+    ], 
+    "details":[
+        "Rapide à mettre en place", 
+        "Efficace",
+        "Possibilité de mettre une sonde déportée",
+        "Gainable",
+        "Grand débit d’air",
+        "Ventilateur Haute Pression pour un débit d’air plus important."
+    ], 
+    "description" :  "Maniables, légères, puissantes, ces machines sont adaptées pour le préchauffage de bâtiments ou le chauffage de volumes (en vrac ou par gaine de diffusion).",
+    "underCatDesc":null,
+    "productPic": "/Genairchaudfod.png",
+    "tablePic": "/letableaudinfo.png",
+    "tablePic2": "/letableaudinfo.png",
+    "schemaPic": "/schemadexplication.png",
+    "similarProducts":[
+        "id_product1",
+        "id_product2",
+        "id_product3"
+    ]
+},
+{"id": "CHAELEC",
+    "category": "chaud",
+    "productName": "Chaudière électrique",
+    "productNameDetails": null,
+    "aim":[
+        "Évènementiel", 
+         "Industrie",
+         "Tertiaire",
+         "Bâtiments",
+         "Sites sensibles"
+    ], 
+   "details":[
+        "Puissance des chaudières ajustable grace aux thermoplongeurs", 
+        "Mise en container ou directement à l’interieur des locaux",
+        "Vase d’expansion (en option)",
+        "Preparateur ECS (en option)",
+        "Stockage primaire (en option)",
+        "D'autres options sont disponibles"
+    ], 
+    "description" :  "Très compacte, ce type de chaudière permet d’être mise dans des sites aux accès compliqués.Très malléable et installation rapide.",
+    "underCatDesc":null,
+    "productPic": "/chaudielec.png",
+    "tablePic": "/letableaudinfo.png",
+    "tablePic2": "/letableaudinfo.png",
+    "schemaPic": "/schemadexplication.png",
+    "similarProducts":[
+        "id_product1",
+        "id_product2",
+        "id_product3"
+    ]
+},
+{"id": "AEROELEC",
+    "category": "chaud",
+    "productName": "Aérotherme électrique",
+    "productNameDetails": null,
+    "aim":[
+        "Évènementiel", 
+         "Industrie",
+         "Tertiaire",
+         "Résidentiel"
+   ] , 
+    "details":[
+        "Installation dans tout type de locaux"
+    ], 
+    "description" :  "Peu encombrant, manutention facile, raccordement électrique aisé. Déployable en nombre, ce type de produit est préconisé pour le chauffage de volumes divers et de préchauffage de bâtiment.",
+    "underCatDesc":null,
+    "productPic": "/Aerotherme.png",
+    "tablePic": "/letableaudinfo.png",
+    "tablePic2": "/letableaudinfo.png",
+    "schemaPic": "/schemadexplication.png",
+    "similarProducts":[
+        "id_product1",
+        "id_product2",
+        "id_product3"
+    ]
+},
+{"id": "CUVFOD",
+    "category": "chaud",
+    "productName": "Cuve FOD",
+    "productNameDetails": null,
+    "aim":[
+        "Alimentation de nos équipements", 
+         "Chaufferies mobiles",
+         "Générateurs d’air chaud",
+         "..."
+   ] , 
+    "details":[
+        "Gestion du combustible à distance", 
+        "Double enveloppe",
+        "ADR jusqu’à 3000L",
+        "bac de retention de 110% (en option)"
+    ], 
+    "description" :  "Cuve en acier hermétique, conforme aux normes en vigueur, et équipée de raccords rapides facilement transportables et sécurisés.",
+    "underCatDesc":null,
+    "productPic": "/cuvefod.png",
+    "tablePic": "/letableaudinfo.png",
+    "tablePic2": "/letableaudinfo.png",
+    "schemaPic": "/schemadexplication.png",
+    "similarProducts":[
+        "id_product1",
+        "id_product2",
+        "id_product3"
+    ]
+},
+{"id": "ARACOPA",
+    "category": "climatisation",
+    "productName": "Armoire à condensation par air",
+    "productNameDetails": null,
+    "aim":[
+        "Data Center", 
+         "Industriel",
+         "Évènementiel",
+         "Résidentiel",
+         "Tertiaire"
+    ], 
+    "details":[
+        "Installation rapide", 
+        "Debit d’air important",
+        "Variateur sur debit d’air (Évenementiel/Industrie)"
+   ] , 
+    "description" :  "Efficace pour traiter les moyens volumes (salles de réunion, data center). Installation simple grâce à ses raccords rapides. L'armoire à condensation par air est pré-chargée en réfrigérant.",
+    "underCatDesc":null,
+    "productPic": "/ARACOPA.png",
+    "tablePic": "/letableaudinfo.png",
+    "tablePic2": "/letableaudinfo.png",
+    "schemaPic": "/schemadexplication.png",
+    "similarProducts":[
+        "id_product1",
+        "id_product2",
+        "id_product3"
+    ]
+},
+{"id": "ARACOPE",
+    "category": "climatisation",
+    "productName": "Armoire à condensation par eau",
+    "productNameDetails": null,
+    "aim":[
+        "Data Center", 
+         "Industriel",
+         "Évènementiel",
+         "Résidentiel",
+         "Tertiaire"
+    ], 
+    "details":[
+        "Installation rapide", 
+        "Debit d’air important",
+        "Variateur sur debit d’air (Évenementiel/Industrie)"
+    ], 
+    "description" :  "Quand aucune issue n’est possible pour évacuer les calories via un condenseur à air, le condenseur à eau coaxial intégré à l’armoire de climatisation sera la meilleure solution.",
+    "underCatDesc":null,
+    "productPic": "/ARACOPE.png",
+    "tablePic": "/letableaudinfo.png",
+    "tablePic2": "/letableaudinfo.png",
+    "schemaPic": "/schemadexplication.png",
+    "similarProducts":[
+        "id_product1",
+        "id_product2",
+        "id_product3"
+    ]
+},
+{"id": "CLIMACD",
+    "category": "climatisation",
+    "productName": "Climatisation avec condenseurs déportés",
+    "productNameDetails": null,
+    "aim":[
+        "Data Center", 
+         "Industriel",
+         "Évènementiel",
+         "Résidentiel",
+         "Tertiaire"
+    ], 
+    "details":[
+        "Installation rapide", 
+        "Debit d’air important",
+        "Variateur sur debit d’air (Évenementiel/Industrie)"
+    ], 
+    "description" :  "Parfait pour traiter les petits volumes (bureau, petite pièce…). Facilement transportable et très rapide à installer.",
+    "underCatDesc":null,
+    "productPic": "/CLIMACD.png",
+    "tablePic": "/letableaudinfo.png",
+    "tablePic2": "/letableaudinfo.png",
+    "schemaPic": "/schemadexplication.png",
+    "similarProducts":[
+        "id_product1",
+        "id_product2",
+        "id_product3"
+    ]
+},
+{"id": "CLIMMOB",
+    "category": "climatisation",
+    "productName": "Climatisation mobile",
+    "productNameDetails": null,
+    "aim":[
+        "Data Center", 
+         "Industriel",
+         "Évènementiel",
+         "Résidentiel",
+         "Tertiaire"
+    ], 
+    "details":[
+        "Installation rapide", 
+        "Debit d’air important",
+        "Variateur sur debit d’air (Évenementiel/Industrie)"
+    ], 
+    "description" :  "Parfait pour traiter les petits volumes (bureau, petite pièce…). Facilement transportable et très rapide à installer.",
+    "underCatDesc":null,
+    "productPic": "/CLIMMOB.png",
+    "tablePic": "/letableaudinfo.png",
+    "tablePic2": "/letableaudinfo.png",
+    "schemaPic": "/schemadexplication.png",
+    "similarProducts":[
+        "id_product1",
+        "id_product2",
+        "id_product3"
+    ]
+},
+{"id": "ARMAEG",
+    "category": "climatisation",
+    "productName": "Armoire à eau glacée",
+    "productNameDetails": null,
+    "aim":[
+        "Data Center", 
+         "Industriel",
+         "Évènementiel",
+         "Résidentiel",
+         "Tertiaire"
+    ], 
+    "details":[
+        "Installation rapide", 
+        "Debit d’air important",
+        "Variateur sur debit d’air (Évenementiel/Industrie)"
+    ], 
+    "description" :  "Parfait pour l’événementiel, pression statique disponible importante (réseaux de gaines ou départ plenum)",
+    "underCatDesc":null,
+    "productPic": "/ARMAEG.png",
+    "tablePic": "/letableaudinfo.png",
+    "tablePic2": "/letableaudinfo.png",
+    "schemaPic": "/schemadexplication.png",
+    "similarProducts":[
+        "id_product1",
+        "id_product2",
+        "id_product3"
+    ]
+},
+{"id": "VENT",
+    "category": "climatisation",
+    "productName": "Ventilateur",
+    "productNameDetails": null,
+    "aim":[
+        "Bâtiment", 
+         "Industriel",
+         "Évènementiel",
+         "Résidentiel",
+         "Tertiaire"
+    ], 
+    "details":[
+        "Installation rapide", 
+        "Debit d’air important",
+        "Variateur sur debit d’air (Évenementiel/Industrie)"
+    ], 
+    "description" :  "Brassage d’air tous volumes confondus (apport d’air neuf, free cooling…). Extraction d’air vicié (chantiers, bâtiments, tunnels…).",
+    "underCatDesc":null,
+    "productPic": "/VENT.png",
+    "tablePic": "/letableaudinfo.png",
+    "tablePic2": "/letableaudinfo.png",
+    "schemaPic": "/schemadexplication.png",
+    "similarProducts":[
+        "id_product1",
+        "id_product2",
+        "id_product3"
+    ]
+}
+
+]
+
+}
